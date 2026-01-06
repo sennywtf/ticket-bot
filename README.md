@@ -8,3 +8,5 @@ Advanced ticket bot used for helping users from communities.
 ## Authors
 
 - [@sennywtf](https://www.github.com/sennywtf)
+
+## For inquiries please DM me on discord at @sennywtf
